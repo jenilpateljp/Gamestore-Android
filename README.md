@@ -1,2 +1,3 @@
 # Gamestore-Android
-This is android app for game store for final project for android.
+This is android app of game store as final project for android.
+This app is made with JAVA.
