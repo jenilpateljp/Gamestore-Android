@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217998941422",
+    "firebase_url": "https://parctice26.firebaseio.com",
+    "project_id": "parctice26",
+    "storage_bucket": "parctice26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217998941422:android:ea20a257f5090f9006e7ff",
+        "android_client_info": {
+          "package_name": "com.example.parctice26"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217998941422-mj39823j8km1l6me61clm95joh2730vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parctice26",
+            "certificate_hash": "de8e5b315c12d7799a6666c3a8245d8bccf5ba6c"
+          }
+        },
+        {
+          "client_id": "217998941422-iv3j708tpuk4jv669rjo5bkv4stcr886.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-QI1TD13vIERucd8yvAjmTrMR4nrz1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217998941422-iv3j708tpuk4jv669rjo5bkv4stcr886.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
